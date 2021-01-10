@@ -1,0 +1,955 @@
+<Settings Name="Barracuda Hyperzen" BarracudaAllowed="True" Video="custom-campaign-video.mp4" FallbackTexture="barracuda-race.jpg" />
+	
+<Group PointsToUnlock="0">
+
+	<Event>
+		<Frontend Name="Cassandra" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Cassandra" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Zephyr Ridge" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Zephyr Ridge" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Harpstone" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Harpstone" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Aciknovae" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Aciknovae" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Nova Split" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Nova Split" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Luna" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Luna" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Dover" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Dover" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Ishtar Citadel" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Ishtar Citadel" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Arrivon XI" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Arrivon XI" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Omega Harbour" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Omega Harbour" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Utah Project" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Utah Project" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Marina Rush" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Marina Rush" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+		
+</Group>
+<Group PointsToUnlock="0">
+
+	<Event>
+		<Frontend Name="Cassandra Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Cassandra Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Zephyr Ridge Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Zephyr Ridge Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Harpstone Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Harpstone Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Aciknovae Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Aciknovae Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Nova Split Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Nova Split Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Luna Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Luna Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Dover Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Dover Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Ishtar Citadel Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Ishtar Citadel Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Arrivon XI Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Arrivon XI Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Omega Harbour Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Omega Harbour Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Utah Project Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Utah Project Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Marina Rush Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Marina Rush Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+</Group>
+<Group PointsToUnlock="0">
+	
+	<Event>
+		<Frontend Name="Surge" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Surge" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Zephyr Climb" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Zephyr Climb" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Atlantica" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Atlantica" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+</Group>
+<Group PointsToUnlock="0">
+	
+	<Event>
+		<Frontend Name="Surge Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Surge Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Zephyr Climb Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Zephyr Climb Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Atlantica Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Atlantica Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+</Group>
+<Group PointsToUnlock="0">
+
+	<Event>
+		<Frontend Name="Europa" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Europa" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Nova Park" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Nova Park" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Yala Outpost" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Yala Outpost" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Utah Dam" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Utah Dam" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+</Group>
+<Group PointsToUnlock="0">
+
+	<Event>
+		<Frontend Name="Europa Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Europa Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Nova Park Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Nova Park Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Yala Outpost Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Yala Outpost Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Utah Dam Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Utah Dam Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+</Group>
+<Group PointsToUnlock="0">
+
+	<Event>
+		<Frontend Name="Hydrome Bed" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Hydrome Bed" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Arrivon Peak" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Arrivon Peak" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+</Group>
+<Group PointsToUnlock="0">
+	
+	<Event>
+		<Frontend Name="Route 05" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Route 05" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Thunderhead" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Thunderhead" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Basin" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Basin" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Metro" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Metro" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Vega Square" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Vega Square" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+</Group>
+<Group PointsToUnlock="0">
+	
+	<Event>
+		<Frontend Name="Route 05 Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Route 05 Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Thunderhead Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Thunderhead Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Basin Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Basin Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Metro Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Metro Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Vega Square Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Vega Square Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+</Group>
+<Group PointsToUnlock="0">
+
+	<Event>
+		<Frontend Name="Caldera" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Caldera" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Project 9" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Project 9" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+	<Event>
+		<Frontend Name="Haze" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Haze" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Helios Descent" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Helios Descent" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Port Ares" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Port Ares" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Kuiper Overturn" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Kuiper Overturn" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+</Group>
+<Group PointsToUnlock="0">
+
+	<Event>
+		<Frontend Name="Caldera Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Caldera Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Project 9 Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Project 9 Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+
+	<Event>
+		<Frontend Name="Haze Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Haze Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Helios Ascent" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Helios Ascent" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Port Ares Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Port Ares Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="Kuiper Overturn Reverse" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Kuiper Overturn Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="False" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+</Group>
+<Group PointsToUnlock="0">
+	
+	<Event>
+		<Frontend Name="The Barracuda Challenge" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Cassandra" />
+					<Level Name="Zephyr Ridge" />
+					<Level Name="Harpstone" />
+					<Level Name="Aciknovae" />
+					<Level Name="Nova Split" />
+					<Level Name="Luna" />
+					<Level Name="Dover" />
+					<Level Name="Ishtar Citadel" />
+					<Level Name="Arrivon XI" />
+					<Level Name="Omega Harbour" />
+					<Level Name="Utah Project" />
+					<Level Name="Marina Rush" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="True" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+	<Event>
+		<Frontend Name="The Reverse Barracuda Challenge" />
+		<Awards BronzeValue="3" SilverValue="2" GoldValue="1" PlatinumValue="1" EasyScore="0" HardScore="0" />
+		<EventSettings>
+			<Mode Gamemode="Race" ModernPhysics="False" SpeedClass="Zen">
+				<Levels>
+					<Level Name="Marina Rush Reverse" />
+					<Level Name="Utah Project Reverse" />
+					<Level Name="Omega Harbour Reverse" />
+					<Level Name="Arrivon XI Reverse" />
+					<Level Name="Ishtar Citadel Reverse" />
+					<Level Name="Dover Reverse" />
+					<Level Name="Luna Reverse" />
+					<Level Name="Nova Split Reverse" />
+					<Level Name="Aciknovae Reverse" />
+					<Level Name="Harpstone Reverse" />
+					<Level Name="Zephyr Ridge Reverse" />
+					<Level Name="Cassandra Reverse" />
+				</Levels>
+			</Mode>
+			<Modifiers Weapons="False" ForcePlayerShip="True" ForceAiShip="True" ForcedShip="Barracuda" Hardcore="False" Mirror="True" ExtraLaps="0" Hyperspeed="True" />
+		<Ai Difficulty="Elite" Count="7" UseSpeedMult="False" SpeedMult="1" />
+		</EventSettings>
+	</Event>
+	
+</Group>
